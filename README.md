@@ -16,6 +16,7 @@ A small, modular ERP system with inventory, orders and a double-entry ledger.
 - Go
 - PostgreSQL
 - Docker
+- GitHub Actions
 
 ## Getting started
 
